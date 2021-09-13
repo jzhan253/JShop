@@ -7,9 +7,8 @@ import com.jincreation.JShop.entity.AdminUser;
 import com.jincreation.JShop.entity.AdminUserToken;
 import com.jincreation.JShop.service.AdminUserService;
 import org.springframework.stereotype.Service;
-import org.springframework.util.NumberUtils;
-import util.NumberUtil;
-import util.SystemUtil;
+import com.jincreation.JShop.util.NumberUtil;
+import com.jincreation.JShop.util.SystemUtil;
 
 import javax.annotation.Resource;
 import java.util.Date;

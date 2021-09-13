@@ -1,4 +1,4 @@
-package util;
+package com.jincreation.JShop.util;
 
 public class ResultGenerator {
     private static final String DEFAULT_SUCCESS_MESSAGE = "SUCCESS";

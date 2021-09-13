@@ -1,4 +1,4 @@
-package util;
+package com.jincreation.JShop.util;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

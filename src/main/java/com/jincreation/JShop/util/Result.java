@@ -1,4 +1,4 @@
-package util;
+package com.jincreation.JShop.util;
 
 import java.io.Serializable;
 
